@@ -1,4 +1,4 @@
-<h1 align="center"> This base was created by ZetsuboXygen </h1>
+<h1 align="center"> This base was created by Ayakozy03 </h1>
 
 <p align="center">
 <img src="https://telegra.ph/file/150f50669e93735c51aea.jpg" width="128" height="128"/>
@@ -64,12 +64,12 @@
 
 ## Special Thanks to
 
-* [WhiskeySockets](https://github.com/WhiskeySockets)
+* [WhiskeySockets](https://github.com/ayakozy)
 
-* [Mamang Adhiraj](https://github.com/adiwajshing)
+* [Mamang Adhiraj](https://github.com/ayakozy)
 
 ## Contact Me
   
-* [Telegram](https://t.me/Zetsugen7)
-* [Instagram](https://instagram.com/ryo.cocaebom_?igshid=OGQ5ZDc2ODk2ZA==)
-* [Tiktok Direct Message](tiktok.com/@xygengod777)
+* [Telegram](https://t.me/Ayakozy03)
+* [Instagram](https://instagram.com/jaa.id2v)
+* [Tiktok Direct Message](tiktok.com/@ayako.id)
