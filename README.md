@@ -10,7 +10,7 @@
 <p align="center">
 <a href="https://github.com/Ayakozy?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/zetsubococaebom?label=Followers&style=social"></a>
 <a 
-href="https://github.com/Ayakozy/Ayakozybot03/"><img title="Stars" src="https://img.shields.io/github/stars/zetsubococaebom/Zetsubo-Md?&style=social"></a>
+href="https://github.com/Ayakozy/Ayakozybot03/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/zetsubococaebom/Zetsubo-Md?&style=social"></a>
 <a href="https://github.com/Ayakozy/Ayakozybot03/network/members"><img title="Fork" src="https://img.shields.io/github/forks/zetsubococaebom/Zetsubo-Md?style=social"></a>
 <a href="https://github.com/Ayakozy/Ayakozybot03/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zetsubococaebom/Zetsubo-Md?label=Watching&style=social"></a>
 </p>
