@@ -21,7 +21,7 @@ href="https://github.com/Ayakozy/Ayakozybot03/stargazers"><img title="Stars" src
 ## Install Several Packages And Run Bots
 
 ```csharp
-> git clone https://github.com/Ayakozy/Ayakozybot03
+> git clone https://github.com/zetsubococaebom/Zetsubo-Md
 > apt-get update -y
 > apt-get upgrade -y
 > apt-get install -y git
