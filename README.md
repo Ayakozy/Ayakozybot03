@@ -18,16 +18,6 @@ href="https://github.com/Ayakozy/Ayakozybot03/stargazers"><img title="Stars" src
 </p>  
 <h2 align="center">Guide For Those Of You Who Use Termux</h2>
 
-## Install Several Packages And Run Bots
-
-```csharp
-> git clone https://github.com/zetsubococaebom/Zetsubo-Md
-> apt-get update -y
-> apt-get upgrade -y
-> apt-get install -y git
-> sh wibu.sh
-````
-
 <h2 align="center">Guide For Panel Users</h2>
 
 ## 🖥 Go to panel and upload this Sc.
