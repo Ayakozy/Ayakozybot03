@@ -21,7 +21,7 @@ href="https://github.com/Ayakozy/Ayakozybot03/stargazers"><img title="Stars" src
 ## Install Several Packages And Run Bots
 
 ```csharp
-> git clone https://github.com/zetsubococaebom/Zetsubo-Md
+> git clone https://github.com/Ayakozy/Ayakozybot03
 > apt-get update -y
 > apt-get upgrade -y
 > apt-get install -y git
@@ -67,10 +67,10 @@ href="https://github.com/Ayakozy/Ayakozybot03/stargazers"><img title="Stars" src
 
 * [WhiskeySockets](https://github.com/ayakozy)
 
-* [Mamang Adhiraj](https://github.com/ayakozy)
+* [Mamang Lathif](https://github.com/ayakozy)
 
 ## Contact Me
   
 * [Telegram](https://t.me/Ayakozy03)
 * [Instagram](https://instagram.com/jaa.id2v)
-* [Tiktok Direct Message](tiktok.com/@ayako.id)
+* [Tiktok](tiktok.com/@ayako.id)
