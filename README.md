@@ -1,4 +1,4 @@
-<h1 align="center"> This base was created by Ayakozy03 </h1>
+<h1 align="center"> This base was created by Ayakozy </h1>
 
 <p align="center">
 <img src="https://telegra.ph/file/150f50669e93735c51aea.jpg" width="128" height="128"/>
@@ -9,9 +9,10 @@
 <p/>
 <p align="center">
 <a href="https://github.com/Ayakozy?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/zetsubococaebom?label=Followers&style=social"></a>
-<a href="https://github.com/zetsubococaebom/Zetsubo-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zetsubococaebom/Zetsubo-Md?&style=social"></a>
-<a href="https://github.com/zetsubococaebom/Zetsubo-Md/network/members"><img title="Fork" src="https://img.shields.io/github/forks/zetsubococaebom/Zetsubo-Md?style=social"></a>
-<a href="https://github.com/zetsubococaebom/Zetsubo-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zetsubococaebom/Zetsubo-Md?label=Watching&style=social"></a>
+<a 
+href="https://github.com/Ayakozy/Ayakozybot03/"><img title="Stars" src="https://img.shields.io/github/stars/zetsubococaebom/Zetsubo-Md?&style=social"></a>
+<a href="https://github.com/Ayakozy/Ayakozybot03/network/members"><img title="Fork" src="https://img.shields.io/github/forks/zetsubococaebom/Zetsubo-Md?style=social"></a>
+<a href="https://github.com/Ayakozy/Ayakozybot03/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zetsubococaebom/Zetsubo-Md?label=Watching&style=social"></a>
 </p>
 </a>
 </p>  
